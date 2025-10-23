@@ -1,0 +1,49 @@
+Question Number,Question Title,Option,Assigned y_k (%)
+Q1,Interest in Subjects: How interested are you in exploring new subjects?,D,100.00
+Q1,Interest in Subjects: How interested are you in exploring new subjects?,C,97.67
+Q1,Interest in Subjects: How interested are you in exploring new subjects?,B,86.05
+Q1,Interest in Subjects: How interested are you in exploring new subjects?,A,34.88
+Q2,Skill Development: How important is skill development in your choice of electives?,C,100.00
+Q2,Skill Development: How important is skill development in your choice of electives?,B,97.67
+Q2,Skill Development: How important is skill development in your choice of electives?,A,53.49
+Q3,Preferred Learning Method: Which learning method do you prefer?,D,100.00
+Q3,Preferred Learning Method: Which learning method do you prefer?,C,74.42
+Q3,Preferred Learning Method: Which learning method do you prefer?,B,58.14
+Q3,Preferred Learning Method: Which learning method do you prefer?,A,23.26
+Q4,Time Commitment: How many hours per week can you dedicate to a subject?,D,100.00
+Q4,Time Commitment: How many hours per week can you dedicate to a subject?,C,93.02
+Q4,Time Commitment: How many hours per week can you dedicate to a subject?,B,62.79
+Q4,Time Commitment: How many hours per week can you dedicate to a subject?,A,25.58
+Q5,Exam Preparation: How do you usually prepare for exams?,D,100.00
+Q5,Exam Preparation: How do you usually prepare for exams?,C,90.70
+Q5,Exam Preparation: How do you usually prepare for exams?,B,81.40
+Q5,Exam Preparation: How do you usually prepare for exams?,A,58.14
+Q6,Mock Test Participation: How often do you take mock tests?,E,100.00
+Q6,Mock Test Participation: How often do you take mock tests?,D,97.67
+Q6,Mock Test Participation: How often do you take mock tests?,C,93.02
+Q6,Mock Test Participation: How often do you take mock tests?,B,67.44
+Q6,Mock Test Participation: How often do you take mock tests?,A,23.26
+Q7,Psychological State Before Tests: How do you feel before taking an exam?,E,100.00
+Q7,Psychological State Before Tests: How do you feel before taking an exam?,D,95.35
+Q7,Psychological State Before Tests: How do you feel before taking an exam?,C,88.37
+Q7,Psychological State Before Tests: How do you feel before taking an exam?,B,48.84
+Q7,Psychological State Before Tests: How do you feel before taking an exam?,A,6.98
+Q8,Time Management: How do you plan to manage the workload?,C,100.00
+Q8,Time Management: How do you plan to manage the workload?,B,90.70
+Q8,Time Management: How do you plan to manage the workload?,A,27.91
+Q9,Career Goals: How important is alignment with career goals in choosing a Subject?,D,100.00
+Q9,Career Goals: How important is alignment with career goals in choosing a Subject?,C,97.67
+Q9,Career Goals: How important is alignment with career goals in choosing a Subject?,B,81.40
+Q9,Career Goals: How important is alignment with career goals in choosing a Subject?,A,44.19
+Q10,Learning Motivation: What motivates you to choose a Subject?,C,100.00
+Q10,Learning Motivation: What motivates you to choose a Subject?,B,90.70
+Q10,Learning Motivation: What motivates you to choose a Subject?,A,46.51
+Q11,Peer Influence: Would you consider a subject because your peers are choosing it?,B,100.00
+Q11,Peer Influence: Would you consider a subject because your peers are choosing it?,A,41.86
+Q12,Feedback from Seniors: Have you received feedback from seniors about your course in general?,C,100.00
+Q12,Feedback from Seniors: Have you received feedback from seniors about your course in general?,B,72.09
+Q12,Feedback from Seniors: Have you received feedback from seniors about your course in general?,A,60.47
+Q13,Resource Availability: Do you have access to necessary resources for Subjects?,B,100.00
+Q13,Resource Availability: Do you have access to necessary resources for Subjects?,A,67.44
+Q14,Future Studies: Are you planning further studies in any area?,B,100.00
+Q14,Future Studies: Are you planning further studies in any area?,A,48.84
